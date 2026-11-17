@@ -23,3 +23,7 @@
 git config --global user.name "你的姓名"
 git config --global user.email "你的邮箱"
 ```
+
+## 第一次练习提交
+
+这是第 1 课「提交与推送」加上去的一行。
